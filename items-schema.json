@@ -8,10 +8,6 @@
         "type": "string"
       },
       {
-        "name": "NAME",
-        "type": "string"
-      },
-      {
         "name": "CATEGORY",
         "type": [
           "null",
@@ -21,4 +17,4 @@
       }
     ],
     "version": "1.0"
-  }
+}
