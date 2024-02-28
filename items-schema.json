@@ -14,7 +14,12 @@
           "string"
         ],
         "categorical": true
-      }
+      },
+      {
+        "name": "SEASON",
+        "type": "string",
+        "categorical": true
+    }
     ],
     "version": "1.0"
 }

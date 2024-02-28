@@ -12,6 +12,11 @@
             "type": "int"
         },
         {
+            "name": "OCCUPATION",
+            "type": "string",
+            "categorical": true
+        },
+        {
             "name": "RESIDENCE",
             "type": "string",
             "categorical": true

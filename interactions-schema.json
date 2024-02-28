@@ -1,5 +1,4 @@
 {
-
     "type": "record",
     "name": "Interactions",
     "namespace": "com.amazonaws.personalize.schema",
